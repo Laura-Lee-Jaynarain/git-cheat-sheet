@@ -224,6 +224,8 @@ Remote mistake?      revert
 
 [git cheat sheet](https://git-scm.com/cheat-sheet)
 
+[other resources](https://github.com/RehanSaeed/Git-Cheat-Sheet)
+
 ### Getting started
 
 connnect to GitHub
@@ -240,6 +242,15 @@ clone an existing repo
 ```bash
  git clone repo
  ```
+### configure
+set user name
+```bash
+git config --global user.name "foo"
+```
+Set user email
+```bash
+git config --global user.email "foo@example.com"	
+```
 
  ### prepare to commit
 
